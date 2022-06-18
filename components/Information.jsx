@@ -13,10 +13,10 @@ const styles = StyleSheet.create({
         fontSize: '4vw'
     },
     des: {
-        backgroundColor: '#ffbdbd',
+        backgroundColor: '#b8b8b8',
         borderRadius: '20px',
         borderStyle: 'solid',
-        borderColor: 'red',
+        borderColor: 'black',
         borderWidth: '2px',
         marginTop: '5%',
         marginLeft: '5%',

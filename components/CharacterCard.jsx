@@ -15,14 +15,15 @@ const styles = StyleSheet.create({
         display: 'flex',
         flexDirection: 'row',
         alignItems: 'center',
-        backgroundColor: '#ffbdbd',
+        backgroundColor: '#b8b8b8',
         marginBottom: '2%',
         marginLeft: '5%',
         marginRight: '5%',
         borderRadius: '20px',
         borderStyle: 'solid',
-        borderColor: 'red',
-        borderWidth:'2px'
+        borderColor: 'black',
+        borderWidth:'2px',
+        marginTop: '10px'
     }
 })
 
